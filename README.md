@@ -1,0 +1,1 @@
+# universityranking.github.io
