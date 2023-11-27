@@ -1,0 +1,1602 @@
+[
+  {
+    "UniversityRank": "1",
+    "NameOfUniversity": "University of Oxford",
+    "Location": "United Kingdom",
+    "NoOfStudent": "20965",
+    "InternationalStudent": "0.42",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "2",
+    "NameOfUniversity": "Harvard University",
+    "Location": "United States",
+    "NoOfStudent": "21887",
+    "InternationalStudent": "0.25",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "3",
+    "NameOfUniversity": "University of Cambridge",
+    "Location": "United Kingdom",
+    "NoOfStudent": "20185",
+    "InternationalStudent": "0.39",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "4",
+    "NameOfUniversity": "Stanford University",
+    "Location": "United States",
+    "NoOfStudent": "16164",
+    "InternationalStudent": "0.24",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "5",
+    "NameOfUniversity": "Massachusetts Institute of Technology",
+    "Location": "United States",
+    "NoOfStudent": "11415",
+    "InternationalStudent": "0.33",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "6",
+    "NameOfUniversity": "California Institute of Technology",
+    "Location": "United States",
+    "NoOfStudent": "2237",
+    "InternationalStudent": "0.34",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "7",
+    "NameOfUniversity": "Princeton University",
+    "Location": "United States",
+    "NoOfStudent": "8279",
+    "InternationalStudent": "0.23",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "8",
+    "NameOfUniversity": "University of California, Berkeley",
+    "Location": "United States",
+    "NoOfStudent": "40921",
+    "InternationalStudent": "0.24",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "9",
+    "NameOfUniversity": "Yale University",
+    "Location": "United States",
+    "NoOfStudent": "13482",
+    "InternationalStudent": "0.21",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "10",
+    "NameOfUniversity": "Imperial College London",
+    "Location": "United Kingdom",
+    "NoOfStudent": "18545",
+    "InternationalStudent": "0.61",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "11",
+    "NameOfUniversity": "Columbia University",
+    "Location": "United States",
+    "NoOfStudent": "21781",
+    "InternationalStudent": "0.38",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "12",
+    "NameOfUniversity": "ETH Zurich",
+    "Location": "Switzerland",
+    "NoOfStudent": "21665",
+    "InternationalStudent": "0.41",
+    "Score": "7.48"
+  },
+  {
+    "UniversityRank": "13",
+    "NameOfUniversity": "The University of Chicago",
+    "Location": "United States",
+    "NoOfStudent": "15366",
+    "InternationalStudent": "0.36",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "14",
+    "NameOfUniversity": "University of Pennsylvania",
+    "Location": "United States",
+    "NoOfStudent": "21453",
+    "InternationalStudent": "0.23",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "15",
+    "NameOfUniversity": "Johns Hopkins University",
+    "Location": "United States",
+    "NoOfStudent": "17584",
+    "InternationalStudent": "0.29",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "16",
+    "NameOfUniversity": "Tsinghua University",
+    "Location": "China",
+    "NoOfStudent": "38324",
+    "InternationalStudent": "0.1",
+    "Score": "5.823"
+  },
+  {
+    "UniversityRank": "17",
+    "NameOfUniversity": "Peking University",
+    "Location": "China",
+    "NoOfStudent": "31994",
+    "InternationalStudent": "0.19",
+    "Score": "5.823"
+  },
+  {
+    "UniversityRank": "18",
+    "NameOfUniversity": "University of Toronto",
+    "Location": "Canada",
+    "NoOfStudent": "77468",
+    "InternationalStudent": "0.26",
+    "Score": "7.278"
+  },
+  {
+    "UniversityRank": "19",
+    "NameOfUniversity": "National University of Singapore",
+    "Location": "Singapore",
+    "NoOfStudent": "32337",
+    "InternationalStudent": "0.25",
+    "Score": "6.587"
+  },
+  {
+    "UniversityRank": "20",
+    "NameOfUniversity": "Cornell University",
+    "Location": "United States",
+    "NoOfStudent": "24027",
+    "InternationalStudent": "0.26",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "21",
+    "NameOfUniversity": "University of California, Los Angeles",
+    "Location": "United States",
+    "NoOfStudent": "42434",
+    "InternationalStudent": "0.16",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "22",
+    "NameOfUniversity": "UCL",
+    "Location": "United Kingdom",
+    "NoOfStudent": "36790",
+    "InternationalStudent": "0.6",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "23",
+    "NameOfUniversity": "University of Michigan-Ann Arbor",
+    "Location": "United States",
+    "NoOfStudent": "45912",
+    "InternationalStudent": "0.17",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "24",
+    "NameOfUniversity": "New York University",
+    "Location": "United States",
+    "NoOfStudent": "36337",
+    "InternationalStudent": "0.42",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "25",
+    "NameOfUniversity": "Duke University",
+    "Location": "United States",
+    "NoOfStudent": "16091",
+    "InternationalStudent": "0.24",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "26",
+    "NameOfUniversity": "Northwestern University",
+    "Location": "United States",
+    "NoOfStudent": "19175",
+    "InternationalStudent": "0.2",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "27",
+    "NameOfUniversity": "University of Washington",
+    "Location": "United States",
+    "NoOfStudent": "47727",
+    "InternationalStudent": "0.18",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "28",
+    "NameOfUniversity": "Carnegie Mellon University",
+    "Location": "United States",
+    "NoOfStudent": "14305",
+    "InternationalStudent": "0.47",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "29",
+    "NameOfUniversity": "University of Edinburgh",
+    "Location": "United Kingdom",
+    "NoOfStudent": "32845",
+    "InternationalStudent": "0.47",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "30",
+    "NameOfUniversity": "Technical University of Munich",
+    "Location": "United Kingdom",
+    "NoOfStudent": "33960",
+    "InternationalStudent": "0.36",
+    "Score": "7.033"
+  },
+  {
+    "UniversityRank": "31",
+    "NameOfUniversity": "University of Hong Kong",
+    "Location": "Hong Kong",
+    "NoOfStudent": "18087",
+    "InternationalStudent": "0.43",
+    "Score": "5.444"
+  },
+  {
+    "UniversityRank": "32",
+    "NameOfUniversity": "University of California, San Diego",
+    "Location": "United States",
+    "NoOfStudent": "37030",
+    "InternationalStudent": "0.28",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "33",
+    "NameOfUniversity": "LMU Munich",
+    "Location": "Germany",
+    "NoOfStudent": "35003",
+    "InternationalStudent": "0.19",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "34",
+    "NameOfUniversity": "University of Melbourne",
+    "Location": "Australia",
+    "NoOfStudent": "49588",
+    "InternationalStudent": "0.47",
+    "Score": "7.228"
+  },
+  {
+    "UniversityRank": "35",
+    "NameOfUniversity": "Kings College London",
+    "Location": "United Kingdom",
+    "NoOfStudent": "28965",
+    "InternationalStudent": "0.52",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "36",
+    "NameOfUniversity": "Nanyang Technological University, Singapore",
+    "Location": "Singapore",
+    "NoOfStudent": "24651",
+    "InternationalStudent": "0.25",
+    "Score": "6.262"
+  },
+  {
+    "UniversityRank": "37",
+    "NameOfUniversity": "London School of Economics and Political Science",
+    "Location": "United Kingdom",
+    "NoOfStudent": "11120",
+    "InternationalStudent": "0.73",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "38",
+    "NameOfUniversity": "Georgia Institute of Technology",
+    "Location": "United States",
+    "NoOfStudent": "28826",
+    "InternationalStudent": "0.4",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "39",
+    "NameOfUniversity": "The University of Tokyo",
+    "Location": "Japan",
+    "NoOfStudent": "26112",
+    "InternationalStudent": "0.15",
+    "Score": "5.886"
+  },
+  {
+    "UniversityRank": "40",
+    "NameOfUniversity": "University of British Columbia",
+    "Location": "Canada",
+    "NoOfStudent": "56452",
+    "InternationalStudent": "0.34",
+    "Score": "7.278"
+  },
+  {
+    "UniversityRank": "41",
+    "NameOfUniversity": "Polytechnique Lausanne",
+    "Location": "Switzerland",
+    "NoOfStudent": "11641",
+    "InternationalStudent": "0.62",
+    "Score": "7.48"
+  },
+  {
+    "UniversityRank": "42",
+    "NameOfUniversity": "KU Leuven",
+    "Location": "Switzerland",
+    "NoOfStudent": "47663",
+    "InternationalStudent": "0.18",
+    "Score": "7.044"
+  },
+  {
+    "UniversityRank": "43",
+    "NameOfUniversity": "University of Heidelberg",
+    "Location": "Germany",
+    "NoOfStudent": "19347",
+    "InternationalStudent": "0.21",
+    "Score": "7.044"
+  },
+  {
+    "UniversityRank": "44",
+    "NameOfUniversity": "Monash University",
+    "Location": "Australia",
+    "NoOfStudent": "58725",
+    "InternationalStudent": "0.41",
+    "Score": "7.228"
+  },
+  {
+    "UniversityRank": "45",
+    "NameOfUniversity": "Chinese University of Hong Kong",
+    "Location": "Hong Kong",
+    "NoOfStudent": "18468",
+    "InternationalStudent": "0.21",
+    "Score": "5.444"
+  },
+  {
+    "UniversityRank": "46",
+    "NameOfUniversity": "McGill University",
+    "Location": "United Kingdom",
+    "NoOfStudent": "32309",
+    "InternationalStudent": "0.3",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "47",
+    "NameOfUniversity": "PSL Research University Paris",
+    "Location": "France",
+    "NoOfStudent": "16218",
+    "InternationalStudent": "0.22",
+    "Score": "6.592"
+  },
+  {
+    "UniversityRank": "48",
+    "NameOfUniversity": "University of Illinois at Urbana-Champaign",
+    "Location": "United States",
+    "NoOfStudent": "48674",
+    "InternationalStudent": "0.22",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "49",
+    "NameOfUniversity": "Karolinska Institute",
+    "Location": "Sweden",
+    "NoOfStudent": "8021",
+    "InternationalStudent": "0.27",
+    "Score": "7.343"
+  },
+  {
+    "UniversityRank": "50",
+    "NameOfUniversity": "University of Texas at Austin",
+    "Location": "United States",
+    "NoOfStudent": "49171",
+    "InternationalStudent": "0.1",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "51",
+    "NameOfUniversity": "Fudan University",
+    "Location": "China",
+    "NoOfStudent": "36318",
+    "InternationalStudent": "0.09",
+    "Score": "5.191"
+  },
+  {
+    "UniversityRank": "52",
+    "NameOfUniversity": "Shanghai Jiao Tong University",
+    "Location": "China",
+    "NoOfStudent": "37478",
+    "InternationalStudent": "0.08",
+    "Score": "5.191"
+  },
+  {
+    "UniversityRank": "53",
+    "NameOfUniversity": "The University of Queensland",
+    "Location": "United Kingdom",
+    "NoOfStudent": "41372",
+    "InternationalStudent": "0.41",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "54",
+    "NameOfUniversity": "University of Manchester",
+    "Location": "United Kingdom",
+    "NoOfStudent": "37035",
+    "InternationalStudent": "0.44",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "55",
+    "NameOfUniversity": "The University of Sydney",
+    "Location": "Australia",
+    "NoOfStudent": "45853",
+    "InternationalStudent": "0.45",
+    "Score": "7.228"
+  },
+  {
+    "UniversityRank": "56",
+    "NameOfUniversity": "Seoul National University",
+    "Location": "South Korea",
+    "NoOfStudent": "26209",
+    "InternationalStudent": "0.1",
+    "Score": "5.895"
+  },
+  {
+    "UniversityRank": "57",
+    "NameOfUniversity": "Washington University in St Louis",
+    "Location": "United States",
+    "NoOfStudent": "14420",
+    "InternationalStudent": "0.24",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "58",
+    "NameOfUniversity": "The Hong Kong University of Science and Technology",
+    "Location": "Hong Kong",
+    "NoOfStudent": "9864",
+    "InternationalStudent": "0.32",
+    "Score": "5.444"
+  },
+  {
+    "UniversityRank": "59",
+    "NameOfUniversity": "Wageningen University & Research",
+    "Location": "Netherlands",
+    "NoOfStudent": "15404",
+    "InternationalStudent": "0.27",
+    "Score": "7.488"
+  },
+  {
+    "UniversityRank": "60",
+    "NameOfUniversity": "University of Amsterdam",
+    "Location": "Netherlands",
+    "NoOfStudent": "29157",
+    "InternationalStudent": "0.32",
+    "Score": "7.488"
+  },
+  {
+    "UniversityRank": "61",
+    "NameOfUniversity": "Brown University",
+    "Location": "United States",
+    "NoOfStudent": "10037",
+    "InternationalStudent": "0.21",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "62",
+    "NameOfUniversity": "Australian National University",
+    "Location": "Australia",
+    "NoOfStudent": "16758",
+    "InternationalStudent": "0.51",
+    "Score": "7.228"
+  },
+  {
+    "UniversityRank": "63",
+    "NameOfUniversity": "University of California, Davis",
+    "Location": "United States",
+    "NoOfStudent": "37639",
+    "InternationalStudent": "0.18",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "64",
+    "NameOfUniversity": "University of California, Santa Barbara",
+    "Location": "United States",
+    "NoOfStudent": "25860",
+    "InternationalStudent": "0.2",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "65",
+    "NameOfUniversity": "University of Southern California",
+    "Location": "United States",
+    "NoOfStudent": "40549",
+    "InternationalStudent": "0.22",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "66",
+    "NameOfUniversity": "Utrecht University",
+    "Location": "Netherlands",
+    "NoOfStudent": "32532",
+    "InternationalStudent": "0.13",
+    "Score": "7.488"
+  },
+  {
+    "UniversityRank": "67",
+    "NameOfUniversity": "Zhejiang University",
+    "Location": "China",
+    "NoOfStudent": "46124",
+    "InternationalStudent": "0.16",
+    "Score": "5.044"
+  },
+  {
+    "UniversityRank": "68",
+    "NameOfUniversity": "Kyoto University",
+    "Location": "Japan",
+    "NoOfStudent": "22269",
+    "InternationalStudent": "0.12",
+    "Score": "5.886"
+  },
+  {
+    "UniversityRank": "69",
+    "NameOfUniversity": "University of North Carolina at Chapel Hill",
+    "Location": "United States",
+    "NoOfStudent": "31080",
+    "InternationalStudent": "0.08",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "70",
+    "NameOfUniversity": "Delft University of Technology",
+    "Location": "Netherlands",
+    "NoOfStudent": "20299",
+    "InternationalStudent": "0.31",
+    "Score": "7.488"
+  },
+  {
+    "UniversityRank": "71",
+    "NameOfUniversity": "Boston University",
+    "Location": "United States",
+    "NoOfStudent": "27243",
+    "InternationalStudent": "0.31",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "72",
+    "NameOfUniversity": "UNSW Sydney",
+    "Location": "Australia",
+    "NoOfStudent": "45133",
+    "InternationalStudent": "0.4",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "73",
+    "NameOfUniversity": "University of Berlin",
+    "Location": "Germany",
+    "NoOfStudent": "8429",
+    "InternationalStudent": "0.21",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "74",
+    "NameOfUniversity": "University of Science and Technology of China",
+    "Location": "China",
+    "NoOfStudent": "18573",
+    "InternationalStudent": "0.06",
+    "Score": "5.044"
+  },
+  {
+    "UniversityRank": "75",
+    "NameOfUniversity": "University of Groningen",
+    "Location": "Sweden",
+    "NoOfStudent": "30009",
+    "InternationalStudent": "0.28",
+    "Score": "6.544"
+  },
+  {
+    "UniversityRank": "76",
+    "NameOfUniversity": "University of Bristol",
+    "Location": "United Kingdom",
+    "NoOfStudent": "25680",
+    "InternationalStudent": "0.31",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "77",
+    "NameOfUniversity": "Leiden University",
+    "Location": "Netherlands",
+    "NoOfStudent": "33648",
+    "InternationalStudent": "0.2",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "78",
+    "NameOfUniversity": "Yonsei University (Seoul campus)",
+    "Location": "South Korea",
+    "NoOfStudent": "19481",
+    "InternationalStudent": "0.17",
+    "Score": "6.444"
+  },
+  {
+    "UniversityRank": "79",
+    "NameOfUniversity": "Hong Kong Polytechnic University",
+    "Location": "Hong Kong",
+    "NoOfStudent": "19046",
+    "InternationalStudent": "0.3",
+    "Score": "6.444"
+  },
+  {
+    "UniversityRank": "80",
+    "NameOfUniversity": "Erasmus University Rotterdam",
+    "Location": "United States",
+    "NoOfStudent": "31668",
+    "InternationalStudent": "0.22",
+    "Score": "6.444"
+  },
+  {
+    "UniversityRank": "81",
+    "NameOfUniversity": "University of Wisconsin-Madison",
+    "Location": "United States",
+    "NoOfStudent": "40701",
+    "InternationalStudent": "0.14",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "82",
+    "NameOfUniversity": "Emory University",
+    "Location": "United States",
+    "NoOfStudent": "13190",
+    "InternationalStudent": "0.2",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "83",
+    "NameOfUniversity": "University of Glasgow",
+    "Location": "Scotland",
+    "NoOfStudent": "28540",
+    "InternationalStudent": "0.41",
+    "Score": "5.999"
+  },
+  {
+    "UniversityRank": "84",
+    "NameOfUniversity": "University of Zurich",
+    "Location": "Switzerland",
+    "NoOfStudent": "25003",
+    "InternationalStudent": "0.22",
+    "Score": "7.48"
+  },
+  {
+    "UniversityRank": "85",
+    "NameOfUniversity": "McMaster University",
+    "Location": "United Kingdom",
+    "NoOfStudent": "26403",
+    "InternationalStudent": "0.2",
+    "Score": "5.999"
+  },
+  {
+    "UniversityRank": "86",
+    "NameOfUniversity": "Humboldt University of Berlin",
+    "Location": "Germany",
+    "NoOfStudent": "34399",
+    "InternationalStudent": "0.17",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "87",
+    "NameOfUniversity": "University of Tabingen",
+    "Location": "Germany",
+    "NoOfStudent": "20620",
+    "InternationalStudent": "0.13",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "88",
+    "NameOfUniversity": "University of Adelaide",
+    "Location": "Australia",
+    "NoOfStudent": "23102",
+    "InternationalStudent": "0.32",
+    "Score": "5.999"
+  },
+  {
+    "UniversityRank": "89",
+    "NameOfUniversity": "University of Bonn",
+    "Location": "Germany",
+    "NoOfStudent": "27210",
+    "InternationalStudent": "0.17",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "90",
+    "NameOfUniversity": "Sorbonne University",
+    "Location": "France",
+    "NoOfStudent": "41443",
+    "InternationalStudent": "0.21",
+    "Score": "6.592"
+  },
+  {
+    "UniversityRank": "91",
+    "NameOfUniversity": "Free University of Berlin",
+    "Location": "Germany",
+    "NoOfStudent": "26497",
+    "InternationalStudent": "0.23",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "92",
+    "NameOfUniversity": "Korea Advanced Institute of Science and Technology (KAIST)",
+    "Location": "South Korea",
+    "NoOfStudent": "9946",
+    "InternationalStudent": "0.09",
+    "Score": "5.895"
+  },
+  {
+    "UniversityRank": "93",
+    "NameOfUniversity": "University Paris-Saclay",
+    "Location": "France",
+    "NoOfStudent": "44443",
+    "InternationalStudent": "0.19",
+    "Score": "6.592"
+  },
+  {
+    "UniversityRank": "94",
+    "NameOfUniversity": "University of Bern",
+    "Location": "Switzerland",
+    "NoOfStudent": "11728",
+    "InternationalStudent": "0.17",
+    "Score": "7.48"
+  },
+  {
+    "UniversityRank": "95",
+    "NameOfUniversity": "University of California, Irvine",
+    "Location": "United States",
+    "NoOfStudent": "36655",
+    "InternationalStudent": "0.28",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "96",
+    "NameOfUniversity": "Institut Polytechnique de Paris",
+    "Location": "France",
+    "NoOfStudent": "5999",
+    "InternationalStudent": "0.41",
+    "Score": "6.592"
+  },
+  {
+    "UniversityRank": "97",
+    "NameOfUniversity": "Nanjing University",
+    "Location": "China",
+    "NoOfStudent": "36426",
+    "InternationalStudent": "0.08",
+    "Score": "5.191"
+  },
+  {
+    "UniversityRank": "98",
+    "NameOfUniversity": "Vanderbilt University",
+    "Location": "United States",
+    "NoOfStudent": "12696",
+    "InternationalStudent": "0.15",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "99",
+    "NameOfUniversity": "City University of Hong Kong",
+    "Location": "Hong Kong",
+    "NoOfStudent": "9099",
+    "InternationalStudent": "0.62",
+    "Score": "6.554"
+  },
+  {
+    "UniversityRank": "100",
+    "NameOfUniversity": "RWTH Aachen University",
+    "Location": "Germany",
+    "NoOfStudent": "39738",
+    "InternationalStudent": "0.28",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "101",
+    "NameOfUniversity": "University of Basel",
+    "Location": "Switzerland",
+    "NoOfStudent": "8632",
+    "InternationalStudent": "0.3",
+    "Score": "7.48"
+  },
+  {
+    "UniversityRank": "102",
+    "NameOfUniversity": "King Abdulaziz University",
+    "Location": "Switzerland",
+    "NoOfStudent": "31545",
+    "InternationalStudent": "0.22",
+    "Score": "5.55"
+  },
+  {
+    "UniversityRank": "103",
+    "NameOfUniversity": "University of Minnesota",
+    "Location": "United States",
+    "NoOfStudent": "61009",
+    "InternationalStudent": "0.1",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "104",
+    "NameOfUniversity": "University of Maryland, College Park",
+    "Location": "United States",
+    "NoOfStudent": "33775",
+    "InternationalStudent": "0.11",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "105",
+    "NameOfUniversity": "University of Warwick",
+    "Location": "Poland",
+    "NoOfStudent": "23230",
+    "InternationalStudent": "0.44",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "106",
+    "NameOfUniversity": "Michigan State University",
+    "Location": "United States",
+    "NoOfStudent": "45465",
+    "InternationalStudent": "0.13",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "107",
+    "NameOfUniversity": "Ghent University",
+    "Location": "Belgium",
+    "NoOfStudent": "39437",
+    "InternationalStudent": "0.12",
+    "Score": "6.923"
+  },
+  {
+    "UniversityRank": "108",
+    "NameOfUniversity": "University of Birmingham",
+    "Location": "United Kingdom",
+    "NoOfStudent": "31820",
+    "InternationalStudent": "0.34",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "109",
+    "NameOfUniversity": "University of Southampton",
+    "Location": "United Kingdom",
+    "NoOfStudent": "21175",
+    "InternationalStudent": "0.39",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "110",
+    "NameOfUniversity": "University of Helsinki",
+    "Location": "Finland",
+    "NoOfStudent": "23059",
+    "InternationalStudent": "0.05",
+    "Score": "7.769"
+  },
+  {
+    "UniversityRank": "111",
+    "NameOfUniversity": "University of Montreal",
+    "Location": "Finland",
+    "NoOfStudent": "38189",
+    "InternationalStudent": "0.22",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "112",
+    "NameOfUniversity": "Ohio State University (Main campus)",
+    "Location": "United States",
+    "NoOfStudent": "55814",
+    "InternationalStudent": "0.13",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "113",
+    "NameOfUniversity": "University of Freiburg",
+    "Location": "Germany",
+    "NoOfStudent": "20253",
+    "InternationalStudent": "0.17",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "114",
+    "NameOfUniversity": "University of Copenhagen",
+    "Location": "Denmark",
+    "NoOfStudent": "31519",
+    "InternationalStudent": "0.16",
+    "Score": "7.6"
+  },
+  {
+    "UniversityRank": "115",
+    "NameOfUniversity": "University of Paris",
+    "Location": "France",
+    "NoOfStudent": "62747",
+    "InternationalStudent": "0.19",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "116",
+    "NameOfUniversity": "University of Sheffield",
+    "Location": "United Kingdom",
+    "NoOfStudent": "27465",
+    "InternationalStudent": "0.41",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "117",
+    "NameOfUniversity": "Aarhus University",
+    "Location": "Denmark",
+    "NoOfStudent": "26475",
+    "InternationalStudent": "0.1",
+    "Score": "7.6"
+  },
+  {
+    "UniversityRank": "118",
+    "NameOfUniversity": "University of Alberta",
+    "Location": "Canada",
+    "NoOfStudent": "32338",
+    "InternationalStudent": "0.28",
+    "Score": "7.278"
+  },
+  {
+    "UniversityRank": "119",
+    "NameOfUniversity": "University of Gattingen",
+    "Location": "Germany",
+    "NoOfStudent": "30221",
+    "InternationalStudent": "0.14",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "120",
+    "NameOfUniversity": "Lund University",
+    "Location": "Sweden",
+    "NoOfStudent": "28545",
+    "InternationalStudent": "0.18",
+    "Score": "7.343"
+  },
+  {
+    "UniversityRank": "121",
+    "NameOfUniversity": "Vrije Universiteit Amsterdam",
+    "Location": "Netherlands",
+    "NoOfStudent": "29796",
+    "InternationalStudent": "0.16",
+    "Score": "7.488"
+  },
+  {
+    "UniversityRank": "122",
+    "NameOfUniversity": "Lancaster University",
+    "Location": "United Kingdom",
+    "NoOfStudent": "14380",
+    "InternationalStudent": "0.39",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "123",
+    "NameOfUniversity": "Dartmouth College",
+    "Location": "United States",
+    "NoOfStudent": "6440",
+    "InternationalStudent": "0.15",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "124",
+    "NameOfUniversity": "Queen Mary University of London",
+    "Location": "United Kingdom",
+    "NoOfStudent": "20505",
+    "InternationalStudent": "0.46",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "125",
+    "NameOfUniversity": "University of Vienna",
+    "Location": "Austria",
+    "NoOfStudent": "35929",
+    "InternationalStudent": "0.29",
+    "Score": "7.246"
+  },
+  {
+    "UniversityRank": "126",
+    "NameOfUniversity": "University of Oslo",
+    "Location": "Norway",
+    "NoOfStudent": "21548",
+    "InternationalStudent": "0.15",
+    "Score": "7.554"
+  },
+  {
+    "UniversityRank": "127",
+    "NameOfUniversity": "Purdue University West Lafayette",
+    "Location": "United States",
+    "NoOfStudent": "44551",
+    "InternationalStudent": "0.2",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "128",
+    "NameOfUniversity": "University of Hamburg",
+    "Location": "Germany",
+    "NoOfStudent": "30676",
+    "InternationalStudent": "0.12",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "129",
+    "NameOfUniversity": "University of Leeds",
+    "Location": "United Kingdom",
+    "NoOfStudent": "33990",
+    "InternationalStudent": "0.36",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "130",
+    "NameOfUniversity": "University of Nottingham",
+    "Location": "United Kingdom",
+    "NoOfStudent": "32875",
+    "InternationalStudent": "0.31",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "131",
+    "NameOfUniversity": "University of Antwerp",
+    "Location": "Belgium",
+    "NoOfStudent": "15857",
+    "InternationalStudent": "0.17",
+    "Score": "6.923"
+  },
+  {
+    "UniversityRank": "132",
+    "NameOfUniversity": "The University of Western Australia",
+    "Location": "Australia",
+    "NoOfStudent": "18405",
+    "InternationalStudent": "0.28",
+    "Score": "7.228"
+  },
+  {
+    "UniversityRank": "133",
+    "NameOfUniversity": "University of Technology Sydney",
+    "Location": "Australia",
+    "NoOfStudent": "27481",
+    "InternationalStudent": "0.31",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "134",
+    "NameOfUniversity": "Case Western Reserve University",
+    "Location": "United States",
+    "NoOfStudent": "10934",
+    "InternationalStudent": "0.2",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "135",
+    "NameOfUniversity": "University of Lausanne",
+    "Location": "Switzerland",
+    "NoOfStudent": "13401",
+    "InternationalStudent": "0.23",
+    "Score": "7.48"
+  },
+  {
+    "UniversityRank": "136",
+    "NameOfUniversity": "Georgetown University",
+    "Location": "United States",
+    "NoOfStudent": "16074",
+    "InternationalStudent": "0.19",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "137",
+    "NameOfUniversity": "University of Exeter",
+    "Location": "United Kingdom",
+    "NoOfStudent": "24165",
+    "InternationalStudent": "0.29",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "138",
+    "NameOfUniversity": "University of Ottawa",
+    "Location": "Canada",
+    "NoOfStudent": "36670",
+    "InternationalStudent": "0.24",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "139",
+    "NameOfUniversity": "University of Auckland",
+    "Location": "New Zealand",
+    "NoOfStudent": "33093",
+    "InternationalStudent": "0.32",
+    "Score": "7.307"
+  },
+  {
+    "UniversityRank": "140",
+    "NameOfUniversity": "Newcastle University",
+    "Location": "United Kingdom",
+    "NoOfStudent": "25590",
+    "InternationalStudent": "0.29",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "141",
+    "NameOfUniversity": "Radboud University Nijmegen",
+    "Location": "Norway",
+    "NoOfStudent": "21979",
+    "InternationalStudent": "0.13",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "142",
+    "NameOfUniversity": "University of Warzburg",
+    "Location": "Germany",
+    "NoOfStudent": "23754",
+    "InternationalStudent": "0.1",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "143",
+    "NameOfUniversity": "University of York",
+    "Location": "United Kingdom",
+    "NoOfStudent": "17665",
+    "InternationalStudent": "0.28",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "144",
+    "NameOfUniversity": "University of Pittsburgh-Pittsburgh campus",
+    "Location": "United States",
+    "NoOfStudent": "26575",
+    "InternationalStudent": "0.11",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "145",
+    "NameOfUniversity": "Maastricht University",
+    "Location": "Netherlands",
+    "NoOfStudent": "19909",
+    "InternationalStudent": "0.56",
+    "Score": "7.488"
+  },
+  {
+    "UniversityRank": "146",
+    "NameOfUniversity": "University of Cologne",
+    "Location": "Germany",
+    "NoOfStudent": "33341",
+    "InternationalStudent": "0.16",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "147",
+    "NameOfUniversity": "Rice University",
+    "Location": "United States",
+    "NoOfStudent": "7068",
+    "InternationalStudent": "0.28",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "148",
+    "NameOfUniversity": "University of Colorado Boulder",
+    "Location": "United States",
+    "NoOfStudent": "34928",
+    "InternationalStudent": "0.08",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "149",
+    "NameOfUniversity": "Ulm University",
+    "Location": "Germany",
+    "NoOfStudent": "10271",
+    "InternationalStudent": "0.13",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "150",
+    "NameOfUniversity": "Uppsala University",
+    "Location": "Sweden",
+    "NoOfStudent": "25548",
+    "InternationalStudent": "0.17",
+    "Score": "7.343"
+  },
+  {
+    "UniversityRank": "151",
+    "NameOfUniversity": "University of Florida",
+    "Location": "United States",
+    "NoOfStudent": "46807",
+    "InternationalStudent": "0.08",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "152",
+    "NameOfUniversity": "Penn State (Main campus)",
+    "Location": "United States",
+    "NoOfStudent": "46863",
+    "InternationalStudent": "0.16",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "153",
+    "NameOfUniversity": "Tufts University",
+    "Location": "United States",
+    "NoOfStudent": "11399",
+    "InternationalStudent": "0.16",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "154",
+    "NameOfUniversity": "University of Rochester",
+    "Location": "United States",
+    "NoOfStudent": "10364",
+    "InternationalStudent": "0.36",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "155",
+    "NameOfUniversity": "KTH Royal Institute of Technology",
+    "Location": "Sweden",
+    "NoOfStudent": "13329",
+    "InternationalStudent": "0.2",
+    "Score": "7.343"
+  },
+  {
+    "UniversityRank": "156",
+    "NameOfUniversity": "Arizona State University (Tempe)",
+    "Location": "United States",
+    "NoOfStudent": "50027",
+    "InternationalStudent": "0.17",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "157",
+    "NameOfUniversity": "Technical University of Berlin",
+    "Location": "Germany",
+    "NoOfStudent": "20243",
+    "InternationalStudent": "0.27",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "158",
+    "NameOfUniversity": "TU Dresden",
+    "Location": "Germany",
+    "NoOfStudent": "30382",
+    "InternationalStudent": "0.16",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "159",
+    "NameOfUniversity": "University of Virginia (Main campus)",
+    "Location": "United States",
+    "NoOfStudent": "25810",
+    "InternationalStudent": "0.13",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "160",
+    "NameOfUniversity": "University of Cape Town",
+    "Location": "United States",
+    "NoOfStudent": "21069",
+    "InternationalStudent": "0.15",
+    "Score": "6.95"
+  },
+  {
+    "UniversityRank": "161",
+    "NameOfUniversity": "University of Bologna",
+    "Location": "Italy",
+    "NoOfStudent": "69831",
+    "InternationalStudent": "0.12",
+    "Score": "6.666"
+  },
+  {
+    "UniversityRank": "162",
+    "NameOfUniversity": "Trinity College Dublin",
+    "Location": "United Kingdom",
+    "NoOfStudent": "17764",
+    "InternationalStudent": "0.28",
+    "Score": "5.865"
+  },
+  {
+    "UniversityRank": "163",
+    "NameOfUniversity": "University of Leicester",
+    "Location": "United Kingdom",
+    "NoOfStudent": "14650",
+    "InternationalStudent": "0.34",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "164",
+    "NameOfUniversity": "Pohang University of Science and Technology (POSTECH)",
+    "Location": "South Korea",
+    "NoOfStudent": "3260",
+    "InternationalStudent": "0.03",
+    "Score": "5.856"
+  },
+  {
+    "UniversityRank": "165",
+    "NameOfUniversity": "Southern University of Science and Technology (SUSTech)",
+    "Location": "South Korea",
+    "NoOfStudent": "5137",
+    "InternationalStudent": "0.01",
+    "Score": "5.845"
+  },
+  {
+    "UniversityRank": "166",
+    "NameOfUniversity": "Technical University of Denmark",
+    "Location": "Denmark",
+    "NoOfStudent": "9599",
+    "InternationalStudent": "0.26",
+    "Score": "7.6"
+  },
+  {
+    "UniversityRank": "167",
+    "NameOfUniversity": "Medical University of Graz",
+    "Location": "Austria",
+    "NoOfStudent": "3722",
+    "InternationalStudent": "0.27",
+    "Score": "7.246"
+  },
+  {
+    "UniversityRank": "168",
+    "NameOfUniversity": "Northeastern University, US",
+    "Location": "United States",
+    "NoOfStudent": "21211",
+    "InternationalStudent": "0.36",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "169",
+    "NameOfUniversity": "Indiana University",
+    "Location": "United States",
+    "NoOfStudent": "66637",
+    "InternationalStudent": "0.13",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "170",
+    "NameOfUniversity": "University Catholique de Louvain",
+    "Location": "Belgium",
+    "NoOfStudent": "24523",
+    "InternationalStudent": "0.2",
+    "Score": "6.923"
+  },
+  {
+    "UniversityRank": "171",
+    "NameOfUniversity": "Sungkyunkwan University (SKKU)",
+    "Location": "France",
+    "NoOfStudent": "23399",
+    "InternationalStudent": "0.18",
+    "Score": "6.988"
+  },
+  {
+    "UniversityRank": "172",
+    "NameOfUniversity": "Wuhan University",
+    "Location": "China",
+    "NoOfStudent": "55412",
+    "InternationalStudent": "0.06",
+    "Score": "5.191"
+  },
+  {
+    "UniversityRank": "173",
+    "NameOfUniversity": "Ulsan National Institute of Science and Technology (UNIST)",
+    "Location": "South Korea",
+    "NoOfStudent": "3896",
+    "InternationalStudent": "0.09",
+    "Score": "5.191"
+  },
+  {
+    "UniversityRank": "174",
+    "NameOfUniversity": "Macquarie University",
+    "Location": "Australia",
+    "NoOfStudent": "30561",
+    "InternationalStudent": "0.27",
+    "Score": "7.228"
+  },
+  {
+    "UniversityRank": "175",
+    "NameOfUniversity": "Huazhong University of Science and Technology",
+    "Location": "China",
+    "NoOfStudent": "57167",
+    "InternationalStudent": "0.04",
+    "Score": "5.191"
+  },
+  {
+    "UniversityRank": "176",
+    "NameOfUniversity": "University of Liverpool",
+    "Location": "United Kingdom",
+    "NoOfStudent": "26350",
+    "InternationalStudent": "0.36",
+    "Score": "5.191"
+  },
+  {
+    "UniversityRank": "177",
+    "NameOfUniversity": "Stockholm University",
+    "Location": "Sweden",
+    "NoOfStudent": "30365",
+    "InternationalStudent": "0.07",
+    "Score": "7.343"
+  },
+  {
+    "UniversityRank": "178",
+    "NameOfUniversity": "University of Mannheim",
+    "Location": "Germany",
+    "NoOfStudent": "7684",
+    "InternationalStudent": "0.13",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "179",
+    "NameOfUniversity": "University of Arizona",
+    "Location": "United States",
+    "NoOfStudent": "39797",
+    "InternationalStudent": "0.09",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "180",
+    "NameOfUniversity": "Texas A&M University",
+    "Location": "United States",
+    "NoOfStudent": "62931",
+    "InternationalStudent": "0.08",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "181",
+    "NameOfUniversity": "University of Barcelona",
+    "Location": "Spain",
+    "NoOfStudent": "45004",
+    "InternationalStudent": "0.11",
+    "Score": "6.354"
+  },
+  {
+    "UniversityRank": "182",
+    "NameOfUniversity": "Autonomous University of Barcelona",
+    "Location": "Spain",
+    "NoOfStudent": "31933",
+    "InternationalStudent": "0.16",
+    "Score": "6.354"
+  },
+  {
+    "UniversityRank": "183",
+    "NameOfUniversity": "Scuola Normale Superiore di Pisa",
+    "Location": "Italy",
+    "NoOfStudent": "629",
+    "InternationalStudent": "0.13",
+    "Score": "6.223"
+  },
+  {
+    "UniversityRank": "184",
+    "NameOfUniversity": "University of Manchester",
+    "Location": "Germany",
+    "NoOfStudent": "28014",
+    "InternationalStudent": "0.07",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "185",
+    "NameOfUniversity": "Pompeu Fabra University",
+    "Location": "Spain",
+    "NoOfStudent": "11965",
+    "InternationalStudent": "0.13",
+    "Score": "6.354"
+  },
+  {
+    "UniversityRank": "186",
+    "NameOfUniversity": "Cardiff University",
+    "Location": "United Kingdom",
+    "NoOfStudent": "27105",
+    "InternationalStudent": "0.28",
+    "Score": "6.354"
+  },
+  {
+    "UniversityRank": "187",
+    "NameOfUniversity": "National Taiwan University (NTU)",
+    "Location": "Taiwan",
+    "NoOfStudent": "25215",
+    "InternationalStudent": "0.11",
+    "Score": "6.354"
+  },
+  {
+    "UniversityRank": "188",
+    "NameOfUniversity": "Friedrich Schiller University Jena",
+    "Location": "Germany",
+    "NoOfStudent": "16446",
+    "InternationalStudent": "0.14",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "189",
+    "NameOfUniversity": "Karlsruhe Institute of Technology",
+    "Location": "Germany",
+    "NoOfStudent": "22673",
+    "InternationalStudent": "0.2",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "190",
+    "NameOfUniversity": "University of Massachusetts",
+    "Location": "United States",
+    "NoOfStudent": "63338",
+    "InternationalStudent": "0.14",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "191",
+    "NameOfUniversity": "University of Aberdeen",
+    "Location": "United Kingdom",
+    "NoOfStudent": "13205",
+    "InternationalStudent": "0.44",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "192",
+    "NameOfUniversity": "University of California, Santa Cruz",
+    "Location": "United States",
+    "NoOfStudent": "19266",
+    "InternationalStudent": "0.14",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "193",
+    "NameOfUniversity": "Medical University of Vienna",
+    "Location": "Austria",
+    "NoOfStudent": "7274",
+    "InternationalStudent": "0.33",
+    "Score": "7.246"
+  },
+  {
+    "UniversityRank": "194",
+    "NameOfUniversity": "University of Miami",
+    "Location": "United States",
+    "NoOfStudent": "17009",
+    "InternationalStudent": "0.16",
+    "Score": "6.892"
+  },
+  {
+    "UniversityRank": "195",
+    "NameOfUniversity": "University of Erlangen-Nuremberg",
+    "Location": "Germany",
+    "NoOfStudent": "30303",
+    "InternationalStudent": "0.13",
+    "Score": "6.985"
+  },
+  {
+    "UniversityRank": "196",
+    "NameOfUniversity": "Sichuan University",
+    "Location": "China",
+    "NoOfStudent": "49543",
+    "InternationalStudent": "0.06",
+    "Score": "5.191"
+  },
+  {
+    "UniversityRank": "197",
+    "NameOfUniversity": "Durham University",
+    "Location": "United Kingdom",
+    "NoOfStudent": "18425",
+    "InternationalStudent": "0.35",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "198",
+    "NameOfUniversity": "Queens University Belfast",
+    "Location": "United Kingdom",
+    "NoOfStudent": "19060",
+    "InternationalStudent": "0.39",
+    "Score": "6.545"
+  },
+  {
+    "UniversityRank": "199",
+    "NameOfUniversity": "University of Reading",
+    "Location": "United Kingdom",
+    "NoOfStudent": "15720",
+    "InternationalStudent": "0.32",
+    "Score": "7.054"
+  },
+  {
+    "UniversityRank": "200",
+    "NameOfUniversity": "Aalto University",
+    "Location": "Finland",
+    "NoOfStudent": "13306",
+    "InternationalStudent": "0.21",
+    "Score": "7.769"
+  }
+]
